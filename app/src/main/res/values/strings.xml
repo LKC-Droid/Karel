@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BasicCrud</string>
+    <string name="serieTitulo">Inserta una serie</string>
+</resources>
